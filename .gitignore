@@ -1,2 +1,2 @@
-pdb_files
-.idea
+pdb_files/*
+.idea/*
