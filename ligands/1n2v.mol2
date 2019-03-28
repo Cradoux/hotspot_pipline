@@ -1,0 +1,21 @@
+@<TRIPOS>MOLECULE
+C:BDI900
+     5     4     1     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 C3      15.6460  16.9830  21.8390   C.3       1 BDI900   0.0000
+     2 H1      16.7350  16.9830  21.8390   H         1 BDI900   0.0000
+     3 H2      15.2830  17.8722  21.3256   H         1 BDI900   0.0000
+     4 H3      15.2830  16.0938  21.3256   H         1 BDI900   0.0000
+     5 H4      15.2830  16.9830  22.8657   H         1 BDI900   0.0000
+@<TRIPOS>BOND
+     1     1     2    1
+     2     1     3    1
+     3     1     4    1
+     4     1     5    1
+@<TRIPOS>SUBSTRUCTURE
+     1 BDI900      1 GROUP             0 C     BDI     0  

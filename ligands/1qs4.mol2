@@ -1,0 +1,15 @@
+@<TRIPOS>MOLECULE
+E:1001004
+     2     1     1     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 CL1    -16.1610  27.7000  71.8170   Cl        1 1001004   0.0000
+     2 H1     -14.8870  27.7000  71.8170   H         1 1001004   0.0000
+@<TRIPOS>BOND
+     1     1     2    1
+@<TRIPOS>SUBSTRUCTURE
+     1 1001004     1 GROUP             0 E     100     0  

@@ -1,0 +1,21 @@
+@<TRIPOS>MOLECULE
+C:FR91001
+     5     4     1     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 C15     46.5700  48.7720  19.2010   C.3       1 FR91001   0.0000
+     2 H1      47.6590  48.7720  19.2010   H         1 FR91001   0.0000
+     3 H2      46.2070  49.6612  18.6876   H         1 FR91001   0.0000
+     4 H3      46.2070  47.8828  18.6876   H         1 FR91001   0.0000
+     5 H4      46.2070  48.7720  20.2277   H         1 FR91001   0.0000
+@<TRIPOS>BOND
+     1     1     2    1
+     2     1     3    1
+     3     1     4    1
+     4     1     5    1
+@<TRIPOS>SUBSTRUCTURE
+     1 FR91001     1 GROUP             0 C     FR9     0  

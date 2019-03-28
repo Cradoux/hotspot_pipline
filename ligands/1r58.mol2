@@ -1,0 +1,15 @@
+@<TRIPOS>MOLECULE
+D:AO5501
+     2     1     1     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 CL23    12.6480  33.8090  15.7870   Cl        1 AO5501   0.0000
+     2 H1      13.9220  33.8090  15.7870   H         1 AO5501   0.0000
+@<TRIPOS>BOND
+     1     1     2    1
+@<TRIPOS>SUBSTRUCTURE
+     1 AO5501      1 GROUP             0 D     AO5     0  

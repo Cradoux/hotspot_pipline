@@ -1,0 +1,21 @@
+@<TRIPOS>MOLECULE
+X:NNO550
+     5     4     1     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 C7      15.6440 -13.0490 -40.3820   C.3       1 NNO550   0.0000
+     2 H1      16.7330 -13.0490 -40.3820   H         1 NNO550   0.0000
+     3 H2      15.2810 -12.1598 -40.8954   H         1 NNO550   0.0000
+     4 H3      15.2810 -13.9382 -40.8954   H         1 NNO550   0.0000
+     5 H4      15.2810 -13.0490 -39.3553   H         1 NNO550   0.0000
+@<TRIPOS>BOND
+     1     1     2    1
+     2     1     3    1
+     3     1     4    1
+     4     1     5    1
+@<TRIPOS>SUBSTRUCTURE
+     1 NNO550      1 GROUP             0 X     NNO     0  

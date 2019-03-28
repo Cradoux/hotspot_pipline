@@ -1,0 +1,15 @@
+@<TRIPOS>MOLECULE
+E:PP21904
+     2     1     1     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 CL      17.8600  36.6550  86.8930   Cl        1 PP21904   0.0000
+     2 H1      19.1340  36.6550  86.8930   H         1 PP21904   0.0000
+@<TRIPOS>BOND
+     1     1     2    1
+@<TRIPOS>SUBSTRUCTURE
+     1 PP21904     1 GROUP             0 E     PP2     0  

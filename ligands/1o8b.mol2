@@ -1,0 +1,19 @@
+@<TRIPOS>MOLECULE
+D:ABF1269
+     4     3     1     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 "P'"    25.3410  24.0820  20.4970   P.3       1 ABF1269   0.0000
+     2 H1      26.7410  24.0820  20.4970   H         1 ABF1269   0.0000
+     3 H2      24.8743  25.2251  19.8370   H         1 ABF1269   0.0000
+     4 H3      24.8743  22.9389  19.8370   H         1 ABF1269   0.0000
+@<TRIPOS>BOND
+     1     1     2    1
+     2     1     3    1
+     3     1     4    1
+@<TRIPOS>SUBSTRUCTURE
+     1 ABF1269     1 GROUP             0 D     ABF     0  

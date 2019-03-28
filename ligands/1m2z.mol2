@@ -1,0 +1,15 @@
+@<TRIPOS>MOLECULE
+I:DEX401
+     2     1     1     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 F1      20.0240  24.6050 -12.0180   F         1 DEX401   0.0000
+     2 H1      20.9410  24.6050 -12.0180   H         1 DEX401   0.0000
+@<TRIPOS>BOND
+     1     1     2    1
+@<TRIPOS>SUBSTRUCTURE
+     1 DEX401      1 GROUP             0 I     DEX     0  

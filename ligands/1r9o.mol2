@@ -1,0 +1,15 @@
+@<TRIPOS>MOLECULE
+C:FLP501
+     2     1     1     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 F        6.8130  34.0900  -2.9120   F         1 FLP501   0.0000
+     2 H1       7.7300  34.0900  -2.9120   H         1 FLP501   0.0000
+@<TRIPOS>BOND
+     1     1     2    1
+@<TRIPOS>SUBSTRUCTURE
+     1 FLP501      1 GROUP             0 C     FLP     0  

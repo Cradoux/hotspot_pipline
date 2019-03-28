@@ -1,0 +1,15 @@
+@<TRIPOS>MOLECULE
+D:ZD63015
+     2     1     1     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 FAC    -49.7650   6.6220   8.4900   F         1 ZD63015   0.0000
+     2 H1     -48.8480   6.6220   8.4900   H         1 ZD63015   0.0000
+@<TRIPOS>BOND
+     1     1     2    1
+@<TRIPOS>SUBSTRUCTURE
+     1 ZD63015     1 GROUP             0 D     ZD6     0  

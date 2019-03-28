@@ -1,0 +1,19 @@
+@<TRIPOS>MOLECULE
+V:FMN4005
+     4     3     1     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 P      -17.1410   5.6390 -51.8760   P.3       1 FMN4005   0.0000
+     2 H1     -15.7410   5.6390 -51.8760   H         1 FMN4005   0.0000
+     3 H2     -17.6077   6.7821 -52.5360   H         1 FMN4005   0.0000
+     4 H3     -17.6077   4.4959 -52.5360   H         1 FMN4005   0.0000
+@<TRIPOS>BOND
+     1     1     2    1
+     2     1     3    1
+     3     1     4    1
+@<TRIPOS>SUBSTRUCTURE
+     1 FMN4005     1 GROUP             0 V     FMN     0  

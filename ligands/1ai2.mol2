@@ -1,0 +1,19 @@
+@<TRIPOS>MOLECULE
+B:NAP417
+     4     3     1     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 P2B    -71.6370 -96.5330   6.3150   P.3       1 NAP417   0.0000
+     2 H1     -70.2370 -96.5330   6.3150   H         1 NAP417   0.0000
+     3 H2     -72.1037 -95.3899   5.6550   H         1 NAP417   0.0000
+     4 H3     -72.1037 -97.6761   5.6550   H         1 NAP417   0.0000
+@<TRIPOS>BOND
+     1     1     2    1
+     2     1     3    1
+     3     1     4    1
+@<TRIPOS>SUBSTRUCTURE
+     1 NAP417      1 GROUP             0 B     NAP     0  

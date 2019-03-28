@@ -1,0 +1,15 @@
+@<TRIPOS>MOLECULE
+F:FAC300
+     2     1     1     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 F6      11.5650  53.5450  16.9630   F         1 FAC300   0.0000
+     2 H1      12.4820  53.5450  16.9630   H         1 FAC300   0.0000
+@<TRIPOS>BOND
+     1     1     2    1
+@<TRIPOS>SUBSTRUCTURE
+     1 FAC300      1 GROUP             0 F     FAC     0  

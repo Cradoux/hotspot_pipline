@@ -1,0 +1,21 @@
+@<TRIPOS>MOLECULE
+B:TFO822
+     5     4     1     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 C8      35.9730 142.1610 -17.9070   C.3       1 TFO822   0.0000
+     2 H1      37.0620 142.1610 -17.9070   H         1 TFO822   0.0000
+     3 H2      35.6100 143.0502 -18.4204   H         1 TFO822   0.0000
+     4 H3      35.6100 141.2718 -18.4204   H         1 TFO822   0.0000
+     5 H4      35.6100 142.1610 -16.8803   H         1 TFO822   0.0000
+@<TRIPOS>BOND
+     1     1     2    1
+     2     1     3    1
+     3     1     4    1
+     4     1     5    1
+@<TRIPOS>SUBSTRUCTURE
+     1 TFO822      1 GROUP             0 B     TFO     0  

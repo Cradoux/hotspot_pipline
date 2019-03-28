@@ -1,0 +1,15 @@
+@<TRIPOS>MOLECULE
+C:7IG334
+     2     1     1     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 F2      21.3760  98.1120 126.4270   F         1 7IG334   0.0000
+     2 H1      22.2930  98.1120 126.4270   H         1 7IG334   0.0000
+@<TRIPOS>BOND
+     1     1     2    1
+@<TRIPOS>SUBSTRUCTURE
+     1 7IG334      1 GROUP             0 C     7IG     0  

@@ -1,0 +1,15 @@
+@<TRIPOS>MOLECULE
+C:7MP531
+     2     1     1     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 FBG      5.5250   0.2770  34.4930   F         1 7MP531   0.0000
+     2 H1       6.4420   0.2770  34.4930   H         1 7MP531   0.0000
+@<TRIPOS>BOND
+     1     1     2    1
+@<TRIPOS>SUBSTRUCTURE
+     1 7MP531      1 GROUP             0 C     7MP     0  

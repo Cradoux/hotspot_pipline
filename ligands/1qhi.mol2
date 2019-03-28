@@ -1,0 +1,21 @@
+@<TRIPOS>MOLECULE
+F:BPG2
+     5     4     1     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 C03     21.4210  90.8370  44.6060   C.3       1 BPG2   0.0000
+     2 H1      22.5100  90.8370  44.6060   H         1 BPG2   0.0000
+     3 H2      21.0580  91.7262  44.0926   H         1 BPG2   0.0000
+     4 H3      21.0580  89.9478  44.0926   H         1 BPG2   0.0000
+     5 H4      21.0580  90.8370  45.6327   H         1 BPG2   0.0000
+@<TRIPOS>BOND
+     1     1     2    1
+     2     1     3    1
+     3     1     4    1
+     4     1     5    1
+@<TRIPOS>SUBSTRUCTURE
+     1 BPG2        1 GROUP             0 F     BPG     0  
